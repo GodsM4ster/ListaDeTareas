@@ -1,5 +1,5 @@
-import checkComplete from "./components/CheckComplete.js";
-import deleteIcon from "./components/DeleteIcons.js";
+import checkComplete from "/components/CheckComplete.js";
+import deleteIcon from "/components/DeleteIcons.js";
 
 
     
